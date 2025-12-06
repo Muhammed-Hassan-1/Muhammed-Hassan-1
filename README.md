@@ -20,7 +20,7 @@
 
 ---
 
-## 🌈 About Me
+##  About Me
 I build automated, scalable, and production-grade cloud-native systems. My background in Communications & Electronics gives me strong systems thinking for networking, architecture, and signal-processing projects. I focus on infrastructure-as-code, container orchestration, CI/CD automation, and observability.
 
 - ✅ Strong practical experience with **AWS**, **Kubernetes**, **Docker**, **Terraform**, **Ansible**, and CI/CD pipelines.  
