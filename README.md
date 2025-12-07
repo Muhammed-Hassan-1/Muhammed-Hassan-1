@@ -13,8 +13,10 @@
   [![GitHub](https://img.shields.io/badge/GitHub-@Muhammed--Hassan--1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Muhammed-Hassan-1)
 </div>
 
-<!-- Professional, clean devops gif on the right -->
-<img align="right" alt="DevOps Engineer" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<!-- Centered professional devops gif -->
+<p align="center">
+  <img alt="DevOps Engineer" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</p>
 
 ---
 
