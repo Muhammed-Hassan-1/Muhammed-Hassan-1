@@ -1,8 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:193B5A&height=120&section=header&text=Mohamed%20Hassan%20Abd-Alsabour&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=DevOps%20%26%20Cloud%20Engineer&descSize=18&descAlignY=70)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mohamed%20Hassan%20Abd-Alsabour&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Automation&descAlignY=55&descAlign=center)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B%2C+I'm+Mohamed+Hassan+Abd-Alsabour;DevOps+%26+Cloud+Engineer;AWS+Infrastructure+Specialist;Kubernetes+%7C+CI%2FCD+%7C+IaC;Automation+%26+Cloud-Native+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=2E9EF7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hello+%F0%9F%91%8B%2C+I'm+Mohamed+Hassan+Abd-Alsabour;DevOps+%26+Cloud+Engineer;AWS+Infrastructure+Specialist;Kubernetes+%7C+CI%2FCD+%7C+IaC;Automation+%26+Cloud-Native+Enthusiast" alt="Typing Animation" />
 </h1>
 
 <h3 align="center">🚀 Empowering Deployment, Automation, and Cloud-Native Excellence</h3>
@@ -10,22 +9,24 @@
 <div align="center">
   
 <a href="https://github.com/Muhammed-Hassan-1">
-  <img src="https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&label=Profile%20Views&color=2E9EF7&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&amp;label=Profile%20Views&amp;color=2E9EF7&amp;style=flat-square" alt="Profile Views" />
 </a>
 <a href="https://linkedin.com/in/mohamedabdalsabour">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:mohamed.hassan.abdalsabour@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/Muhammed-Hassan-1?tab=followers">
-  <img src="https://img.shields.io/github/followers/Muhammed-Hassan-1?label=Followers&style=flat-square&color=2E9EF7&logo=github" />
+  <img src="https://img.shields.io/github/followers/Muhammed-Hassan-1?label=Followers&amp;style=flat-square&amp;color=2E9EF7&amp;logo=github" alt="Followers" />
 </a>
 
 </div>
 
 <!-- Restore old right-side image position -->
-<img align="right" alt="DevOps Engineering" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="right">
+  <img alt="DevOps Engineering" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+</p>
 
 ---
 
@@ -59,20 +60,20 @@ My engineering background gives me strong foundations in systems thinking, netwo
 # 🛠️ **Technical Skillset**
 
 ## ☁️ **Cloud & Architecture**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC%20Architecture-0052CC?style=for-the-badge)
 
 ## 🐳 **Containers & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
 
 ## ⚙️ **Infrastructure as Code**
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&amp;logo=terraform&amp;logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white)
 
 ## 🔄 **CI/CD & DevOps**
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white)
 
 ## 📊 **Monitoring & Logging**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge)
@@ -82,7 +83,7 @@ My engineering background gives me strong foundations in systems thinking, netwo
 ## 💻 **Programming & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black)
 
 ---
 
@@ -135,40 +136,32 @@ Internal SIP-based VoIP system for lab communication.
 # 🎓 **Certifications**
 <div align="center">
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat%20System%20Administration-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/CKA%20Training-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat%20System%20Administration-EE0000?style=for-the-badge&amp;logo=redhat&amp;logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white)
+![Kubernetes](https://img.shields.io/badge/CKA%20Training-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
 
 </div>
 
 ---
 
-# 🤝 **Let's Connect**
-
-<div align="center">
-
-<a href="https://linkedin.com/in/mohamedabdalsabour">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:mohamed.hassan.abdalsabour@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+## 📌 Quick Links
+- **GitHub:** https://github.com/Muhammed-Hassan-1  
+- **LinkedIn:** https://www.linkedin.com/in/mohamedabdalsabour  
+- **Email:** mohamed.hassan.abdalsabour@gmail.com
 
 ---
 
+## 🤝 Let’s Work Together
+I’m actively building and documenting projects that show infrastructure, automation, and real-time system skills. If you’d like to collaborate, review a repo, or discuss opportunities — reach out!
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Automation%20Turns%20Ideas%20Into%20Reliable%20Systems&author=DevOps%20Mindset" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;quote=Automation%20Turns%20Ideas%20Into%20Reliable%20Systems&amp;author=DevOps%20Mindset" alt="Quote"/>
 </div>
 
 <div align="center">
-
 **🚀 "Automate. Secure. Deploy. Scale."**  
 *Crafted with ❤️ by Mohamed Hassan Abd-Alsabour*
-
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn)
