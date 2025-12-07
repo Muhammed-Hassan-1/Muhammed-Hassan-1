@@ -1,22 +1,30 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mohamed%20Hassan%20Abd-Alsabour&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Automation&descAlignY=55&descAlign=center)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B%2C+I'm+Mohamed+Hassan+Abd-Alsabour;DevOps+%26+Cloud+Engineer;AWS+Infrastructure+Specialist;Kubernetes+%7C+CI%2FCD+%7C+IaC;Automation+%26+Cloud-Native+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B%2C+I'm+Mohamed+Hassan+Abd-Alsabour;DevOps+%26+Cloud+Engineer;AWS+Infrastructure+Specialist;Kubernetes+%7C+CI%2FCD+%7C+IaC;Automation+%26+Cloud-Native+Enthusiast" alt="Typing Animation" />
 </h1>
 
 <h3 align="center">🚀 Empowering Deployment, Automation, and Cloud-Native Excellence</h3>
 
 <div align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&label=Profile%20Views&color=2E9EF7&style=flat-square)](https://github.com/Muhammed-Hassan-1)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabdalsabour)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.hassan.abdalsabour@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-@Muhammed--Hassan--1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Muhammed-Hassan-1)
+  
+<a href="https://github.com/Muhammed-Hassan-1">
+  <img src="https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&label=Profile%20Views&color=2E9EF7&style=flat-square" />
+</a>
+<a href="https://linkedin.com/in/mohamedabdalsabour">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mohamed.hassan.abdalsabour@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Muhammed-Hassan-1?tab=followers">
+  <img src="https://img.shields.io/github/followers/Muhammed-Hassan-1?label=Followers&style=flat-square&color=2E9EF7&logo=github" />
+</a>
+
 </div>
 
-<!-- Centered professional devops GIF -->
-<p align="center">
-  <img alt="DevOps Engineer" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</p>
+<!-- Restore old right-side image position -->
+<img align="right" alt="DevOps Engineering" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
 
@@ -38,10 +46,12 @@ My engineering background gives me strong foundations in systems thinking, netwo
 # 🚀 **What I Bring to the Table**
 - ⚡ Automated complete CI/CD pipelines (Docker → Build → Test → Deploy)  
 - 🔧 Built reproducible AWS infrastructures using Terraform  
-- 🌐 Designed VPC architectures with ALBs, private/public subnets  
-- 🛰️ Developed real-time ML systems for landmine detection with GNU Radio  
-- 📊 Implemented monitoring dashboards using Prometheus & Grafana  
-- 🧰 Managed containerized microservices using Kubernetes  
+- 🌐 Designed production-ready AWS VPC architectures  
+- 🛰️ Developed real-time ML systems for landmine detection using GNU Radio  
+- 📊 Built monitoring dashboards with Prometheus & Grafana  
+- 🧰 Managed containerized microservices with Kubernetes  
+
+<br clear="right"/>
 
 ---
 
@@ -82,40 +92,40 @@ A full **multi-class ML system** for detecting landmine types using Ground Penet
 
 **Tech:** Python, Scikit-Learn, GNU Radio  
 **Features:**
-- Real-time ML inference integrated into GNU Radio  
-- Feature engineering (entropy, flatness, phase variance, etc.)
-- Evaluated 4 ML models for best accuracy
+- Real-time ML inside GNU Radio  
+- Feature engineering (entropy, flatness, autocorrelation width, etc.)
+- Compared 4 ML models for highest accuracy
 
 ---
 
 ### ☁️ AWS Multi-Tier VPC Architecture  
-Designed a complete AWS environment using:
+Built a secure AWS environment with:
 - Public / Private Subnets  
 - NAT Gateways  
-- ALB  
-- Nginx frontend + Apache backend  
+- ALB Reverse Proxy  
+- Nginx + Apache  
 
 **Tech:** AWS, Terraform, Nginx, Apache
 
 ---
 
 ### 🔌 Software-Defined Networking (SDN)  
-Created custom SDN topologies with Mininet & OpenFlow.
+Created SDN topologies using Python & OpenFlow.
 
 **Tech:** Mininet, OpenFlow, Python  
-**Features:** Traffic automation, flow rules, Wireshark analysis
+**Features:** Flow automation & packet-level analysis
 
 ---
 
 ### 📡 Cognitive Radio System  
-Simulated dynamic spectrum sensing and adaptive frequency allocation.
+Simulated spectrum sensing & frequency allocation.
 
 **Tech:** GNU Radio, Python
 
 ---
 
-### 📞 VoIP System Using Asterisk  
-Built internal SIP-based VoIP communication.
+### 📞 VoIP Asterisk System  
+Internal SIP-based VoIP system for lab communication.
 
 **Tech:** Linux, Asterisk, Zoiper
 
@@ -133,23 +143,31 @@ Built internal SIP-based VoIP communication.
 
 ---
 
-## 📌 Quick Links
-- **GitHub:** https://github.com/Muhammed-Hassan-1  
-- **LinkedIn:** https://www.linkedin.com/in/mohamedabdalsabour  
-- **Email:** mohamed.hassan.abdalsabour@gmail.com
+# 🤝 **Let's Connect**
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohamedabdalsabour">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mohamed.hassan.abdalsabour@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🤝 Let’s Work Together
-I’m actively building and documenting projects that show infrastructure, automation, and real-time system skills. If you’d like to collaborate, review a repo, or discuss opportunities — reach out!
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Automation%20Turns%20Ideas%20Into%20Reliable%20Systems&author=DevOps%20Mindset" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Automation%20Turns%20Ideas%20Into%20Reliable%20Systems&author=DevOps%20Mindset" />
 </div>
 
 <div align="center">
+
 **🚀 "Automate. Secure. Deploy. Scale."**  
 *Crafted with ❤️ by Mohamed Hassan Abd-Alsabour*
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn)
