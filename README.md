@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mohamed%20Hassan%20Abd-Alsabour&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=65&descAlign=center)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:193B5A&height=120&section=header&text=Mohamed%20Hassan%20Abd-Alsabour&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=DevOps%20%26%20Cloud%20Engineer&descSize=18&descAlignY=70)
 
 
 <h1 align="center">
