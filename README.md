@@ -7,162 +7,122 @@
 <h3 align="center">🚀 Empowering Deployment, Automation, and Cloud-Native Excellence</h3>
 
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&label=Profile%20Views&color=2E9EF7&style=flat-square)](https://github.com/Muhammed-Hassan-1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabdalsabour)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.hassan.abdalsabour@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Muhammed-Hassan-1?label=Followers&style=flat-square&color=2E9EF7&logo=github)](https://github.com/Muhammed-Hassan-1?tab=followers)
-
+  [![Profile Views](https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&label=Profile%20Views&color=2E9EF7&style=flat-square)](https://github.com/Muhammed-Hassan-1)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabdalsabour)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.hassan.abdalsabour@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-@Muhammed--Hassan--1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Muhammed-Hassan-1)
 </div>
 
-<img align="right" alt="DevOps Engineering" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- Professional, clean devops gif on the right -->
+<img align="right" alt="DevOps Engineer" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ---
 
-# 🎯 **Who Am I?**
-I am a **DevOps & Cloud Engineer** passionate about building automated, scalable, and cloud-native systems that **solve real problems**.
+## 🎯 Who I Am
+I am **Mohamed Hassan Abd-Alsabour** — a DevOps & Cloud Engineer focused on designing and operating automated, secure, and scalable cloud-native systems. My engineering background gives me a rigorous approach to systems design, networking, and real-time engineering problems.
 
-I specialize in:
-- **AWS Cloud Architecture**
-- **Infrastructure as Code (Terraform & Ansible)**
-- **Docker & Kubernetes**
-- **CI/CD Pipelines (GitHub Actions, Jenkins)**
-- **Monitoring & Observability (Prometheus, Grafana, ELK)**
-- **Linux, Networking & System Administration**
-
-My engineering background gives me strong foundations in systems thinking, networking, and automation — enabling me to create reliable cloud environments and efficient deployment pipelines.
+**Core focus areas**
+- AWS Cloud Architecture & VPC design  
+- Infrastructure as Code (Terraform, Ansible)  
+- Containerization & Orchestration (Docker, Kubernetes)  
+- CI/CD pipelines (GitHub Actions, Jenkins)  
+- Observability (Prometheus, Grafana, ELK)  
+- Linux administration, networking fundamentals
 
 ---
 
-# 🚀 **What I Bring to the Table**
-- ⚡ Automated complete CI/CD pipelines (Docker → Build → Test → Deploy)  
-- 🔧 Built reproducible AWS infrastructures using Terraform  
-- 🌐 Designed VPC architectures with ALBs, private/public subnets  
-- 🛰️ Developed real-time ML systems for landmine detection with GNU Radio  
-- 📊 Implemented monitoring dashboards using Prometheus & Grafana  
-- 🧰 Managed containerized microservices using Kubernetes  
-
-<br clear="right"/>
+## 🔥 What I Deliver
+- Robust, reproducible infrastructure with IaC (Terraform + Ansible)  
+- Reliable CI/CD workflows: build → test → deploy → monitor  
+- Containerized microservices on Kubernetes with secure networking and ingress  
+- Observability & alerting for early detection and fast recovery  
+- Production-like deployments for research and field projects (including real-time ML inference)
 
 ---
 
-# 🛠️ **Technical Skillset**
+## 🛠️ Technology Arsenal
 
-## ☁️ **Cloud & Architecture**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC%20Architecture-0052CC?style=for-the-badge)
+<details>
+<summary>Cloud & Infrastructure</summary>
 
-## 🐳 **Containers & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- **AWS:** EC2, S3, IAM, VPC, ALB/NLB, Route53  
+- **Networking:** TCP/IP, DNS, routing, security groups, load balancing
 
-## ⚙️ **Infrastructure as Code**
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+</details>
 
-## 🔄 **CI/CD & DevOps**
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<details>
+<summary>Containers & Orchestration</summary>
 
-## 📊 **Monitoring & Logging**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
-![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge)
+- **Docker:** images, networking, volumes, Compose  
+- **Kubernetes:** deployments, services, ingress, configmaps, secrets
 
-## 💻 **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</details>
 
----
+<details>
+<summary>Infrastructure as Code & Automation</summary>
 
-# 🏆 **Highlighted Projects**
+- **Terraform** — provisioning cloud resources  
+- **Ansible** — configuration & application deployment  
+- **Git / GitHub / GitLab** — source control best practices
 
-### 🛰️ Landmine Detection Using GPR & ML  
-A full **multi-class ML system** for detecting landmine types using Ground Penetrating Radar signals.
+</details>
 
-**Tech:** Python, Scikit-Learn, GNU Radio  
-**Features:**
-- Real-time ML inference integrated into GNU Radio  
-- Feature engineering (entropy, flatness, phase variance, etc.)
-- Evaluated 4 ML models for best accuracy
+<details>
+<summary>CI/CD & Pipelines</summary>
 
----
+- **GitHub Actions**, **Jenkins** — automated pipelines, testing, deployment
 
-### ☁️ AWS Multi-Tier VPC Architecture  
-Designed a complete AWS environment using:
-- Public / Private Subnets  
-- NAT Gateways  
-- ALB  
-- Nginx frontend + Apache backend  
+</details>
 
-**Tech:** AWS, Terraform, Nginx, Apache
+<details>
+<summary>Monitoring & Logging</summary>
+
+- **Prometheus**, **Grafana**, **ELK Stack** (Elasticsearch / Logstash / Kibana)
+
+</details>
+
+<details>
+<summary>Languages & Tools</summary>
+
+- **Python** (scripting, ML glue code), **Bash**, **Linux (Red Hat)**
+
+</details>
 
 ---
 
-### 🔌 Software-Defined Networking (SDN)  
-Created custom SDN topologies with Mininet & OpenFlow.
+## 🏆 Highlighted Projects
 
-**Tech:** Mininet, OpenFlow, Python  
-**Features:** Traffic automation, flow rules, Wireshark analysis
+### 1) Landmine Detection — `landmine-detection-gpr-ml`
+**Short:** Real-time ML pipeline to classify landmine types using GPR signals and deploy inference inside GNU Radio.  
+**Tech:** Python, Scikit-Learn, GNU Radio, NumPy, Pandas  
+**Why it matters:** Real-time classification on embedded flowgraphs for field testing.
 
 ---
 
-### 📡 Cognitive Radio System  
-Simulated dynamic spectrum sensing and adaptive frequency allocation.
+### 2) AWS Multi-Tier VPC — `aws-vpc-architecture`
+**Short:** Full VPC architecture with public/private subnets, ALB, and secure backend tiers.  
+**Tech:** AWS (VPC, EC2, S3, ALB), Terraform, Nginx, Apache  
+**Highlights:** Terraform modules, documented network diagram, CI workflow for infra changes.
 
+---
+
+### 3) SDN Automation — `sdn-mininet-automation`
+**Short:** Mininet topologies and Python OpenFlow controllers for automated traffic management.  
+**Tech:** Mininet, OpenFlow, Python, Wireshark
+
+---
+
+### 4) Cognitive Radio Simulation — `cognitive-radio-gnu-radio`
+**Short:** Spectrum sensing and adaptive frequency selection simulation with GNU Radio.  
 **Tech:** GNU Radio, Python
 
 ---
 
-### 📞 VoIP System Using Asterisk  
-Built internal SIP-based VoIP communication.
-
-**Tech:** Linux, Asterisk, Zoiper
-
----
-
-# 🎓 **Courses**
-<div align="center">
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat%20System%20Administration-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/CKA%20Training-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
+### 5) VoIP Lab — `voip-asterisk-system`
+**Short:** SIP-based internal communication system using Asterisk and softphone clients.  
+**Tech:** Asterisk, Linux, SIP
 
 ---
 
-# 📊 **GitHub Stats**
+## 📁 Recommended Repository Structure (for each project)
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Hassan-1&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Hassan-1&layout=compact&theme=tokyonight" height="160" />
-</div>
-
----
-
-# 🤝 **Let's Connect**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabdalsabour)
-[![Email](https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.hassan.abdalsabour@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Automation%20Turns%20Ideas%20Into%20Reliable%20Systems&author=DevOps%20Mindset" />
-</div>
-
-<div align="center">
-
-**🚀 "Automate. Secure. Deploy. Scale."**  
-*Crafted with ❤️ by Mohamed Hassan Abd-Alsabour*
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn)
