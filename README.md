@@ -122,7 +122,7 @@ Built internal SIP-based VoIP communication.
 
 ---
 
-# 🎓 **Certifications**
+# 🎓 **Courses**
 <div align="center">
 
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
