@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mohamed%20Hassan%20Abd-Alsabour&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Automation&descAlignY=55&descAlign=center)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mohamed%20Hassan%20Abd-Alsabour&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=65&descAlign=center)
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B%2C+I'm+Mohamed+Hassan+Abd-Alsabour;DevOps+%26+Cloud+Engineer;AWS+Infrastructure+Specialist;Kubernetes+%7C+CI%2FCD+%7C+IaC;Automation+%26+Cloud-Native+Enthusiast" alt="Typing Animation" />
