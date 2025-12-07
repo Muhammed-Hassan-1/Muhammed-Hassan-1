@@ -7,15 +7,16 @@
 <h3 align="center">🚀 Empowering Deployment, Automation, and Cloud-Native Excellence</h3>
 
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&label=Profile%20Views&color=2E9EF7&style=flat-square)](https://github.com/Muhammed-Hassan-1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabdalsabour)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.hassan.abdalsabour@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Muhammed-Hassan-1?label=Followers&style=flat-square&color=2E9EF7&logo=github)](https://github.com/Muhammed-Hassan-1?tab=followers)
-
+  [![Profile Views](https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&label=Profile%20Views&color=2E9EF7&style=flat-square)](https://github.com/Muhammed-Hassan-1)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabdalsabour)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.hassan.abdalsabour@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-@Muhammed--Hassan--1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Muhammed-Hassan-1)
 </div>
 
-<img align="right" alt="DevOps Engineering" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- Centered professional devops GIF -->
+<p align="center">
+  <img alt="DevOps Engineer" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</p>
 
 ---
 
@@ -41,8 +42,6 @@ My engineering background gives me strong foundations in systems thinking, netwo
 - 🛰️ Developed real-time ML systems for landmine detection with GNU Radio  
 - 📊 Implemented monitoring dashboards using Prometheus & Grafana  
 - 🧰 Managed containerized microservices using Kubernetes  
-
-<br clear="right"/>
 
 ---
 
@@ -134,35 +133,23 @@ Built internal SIP-based VoIP communication.
 
 ---
 
-# 📊 **GitHub Stats**
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Hassan-1&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Hassan-1&layout=compact&theme=tokyonight" height="160" />
-</div>
+## 📌 Quick Links
+- **GitHub:** https://github.com/Muhammed-Hassan-1  
+- **LinkedIn:** https://www.linkedin.com/in/mohamedabdalsabour  
+- **Email:** mohamed.hassan.abdalsabour@gmail.com
 
 ---
 
-# 🤝 **Let's Connect**
+## 🤝 Let’s Work Together
+I’m actively building and documenting projects that show infrastructure, automation, and real-time system skills. If you’d like to collaborate, review a repo, or discuss opportunities — reach out!
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabdalsabour)
-[![Email](https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.hassan.abdalsabour@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Automation%20Turns%20Ideas%20Into%20Reliable%20Systems&author=DevOps%20Mindset" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Automation%20Turns%20Ideas%20Into%20Reliable%20Systems&author=DevOps%20Mindset" alt="Quote"/>
 </div>
 
 <div align="center">
-
 **🚀 "Automate. Secure. Deploy. Scale."**  
 *Crafted with ❤️ by Mohamed Hassan Abd-Alsabour*
-
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn)
