@@ -103,7 +103,7 @@ Targeting DevOps, Cloud Engineering, and Site Reliability roles.
 # 🧩 Selected Repositories
 
 <p align="center">
-  <a href="https://github.com/Muhammed-Hassan-1">
+  <a href="https://github.com/Muhammed-Hassan-1/EKS_Project.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Hassan-1&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Muhammed-Hassan-1">
