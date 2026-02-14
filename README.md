@@ -8,6 +8,22 @@
 
 ---
 
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedabdalsabour">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamedhasan7420@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Muhammed-Hassan-1">
+    <img src="https://img.shields.io/badge/GitHub-Muhammed--Hassan--1-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 Engineering Profile
 
 DevOps and Cloud Engineer focused on designing secure, scalable, and automated cloud-native infrastructure.
@@ -18,26 +34,39 @@ Experienced in:
 - Secure CI/CD and GitOps workflows  
 - Monitoring, logging, and reliability engineering  
 
-Targeting DevOps, Cloud Engineering, and Site Reliability roles.
-
 ---
 
 # 🧠 Core Technical Competencies
 
+---
+
 ### ☁️ Cloud & Infrastructure
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux&perline=6" />
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible&perline=6" />
 </p>
 
 - AWS (EC2, S3, IAM, VPC, ALB, EKS)  
 - Terraform (Infrastructure as Code)  
 - Ansible (Configuration Automation)  
-- Linux (RHEL)
+
+---
+
+### 🐧 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu&perline=6" />
+<img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</p>
+
+- Ubuntu  
+- Red Hat Enterprise Linux (RHEL)  
 
 ---
 
 ### 🐳 Containers & Orchestration
-<p align="left">
+
+<p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=6" />
 </p>
 
@@ -49,7 +78,8 @@ Targeting DevOps, Cloud Engineering, and Site Reliability roles.
 ---
 
 ### 🔁 CI/CD, GitOps & DevSecOps
-<p align="left">
+
+<p>
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git&perline=6" />
 </p>
 
@@ -57,12 +87,12 @@ Targeting DevOps, Cloud Engineering, and Site Reliability roles.
 - Argo CD (GitOps deployment model)  
 - SonarQube (Code Quality Gates)  
 - Trivy (Container Security Scanning)  
-- Secure pipeline integration practices  
 
 ---
 
-### 📊 Observability & Monitoring
-<p align="left">
+### 📊 Observability & Automation
+
+<p>
 <img src="https://skillicons.dev/icons?i=python,bash&perline=6" />
 </p>
 
@@ -73,43 +103,35 @@ Targeting DevOps, Cloud Engineering, and Site Reliability roles.
 
 ---
 
-# 🚀 Production-Grade Projects
+# 🚀 Production-Grade Project Highlights
+
+---
 
 ### 🏗 AWS EKS Infrastructure with Secure CI/CD & GitOps
-- Designed multi-AZ VPC architecture with Terraform
-- Implemented environment isolation (Prod / Non-Prod)
-- Built secure CI/CD pipelines with GitHub Actions
-- Integrated SonarQube & Trivy for DevSecOps
-- Adopted GitOps using Argo CD (drift detection & controlled releases)
-- Implemented API security & observability integrations
+
+- Multi-AZ VPC architecture provisioned using Terraform  
+- Environment isolation (Prod / Non-Prod)  
+- Secure CI/CD with GitHub Actions  
+- SonarQube & Trivy integrated into pipelines  
+- GitOps workflows using Argo CD  
+- API security, secrets management & observability integration  
 
 ---
 
 ### 📊 Automated Monitoring Stack (Ansible + Prometheus + Grafana)
-- Automated deployment on RHEL using Ansible
-- Designed role-based, idempotent automation
-- Implemented firewall hardening & service management
-- Built centralized metrics collection & visualization
+
+- Automated RHEL-based deployment using Ansible  
+- Role-based, idempotent automation structure  
+- Firewall hardening & service management  
+- Centralized metrics collection & visualization  
 
 ---
 
 ### 🧩 Kubernetes Multi-Tier Application Architecture
-- Deployed frontend, backend & persistent database layers
-- Managed Services, Secrets, and Persistent Volumes
-- Implemented secure networking & configuration management
 
----
-
-# 🧩 Selected Repositories
-
-<p align="center">
-  <a href="https://github.com/Muhammed-Hassan-1/EKS_Project.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Hassan-1&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Muhammed-Hassan-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Hassan-1&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+- Frontend, backend & persistent database layers  
+- Secrets, Services, Persistent Volume Claims  
+- Secure internal & external networking configuration  
 
 ---
 
