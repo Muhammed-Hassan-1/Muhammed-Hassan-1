@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Engineer;SRE+Enthusiast;Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+%7C+DevSecOps+%7C+GitOps;Building+Scalable+Cloud+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=760&lines=DevOps+Engineer+%7C+Cloud+Engineer+%7C+SRE+Enthusiast;AWS+%7C+Kubernetes+%7C+Terraform+%7C+GitOps;CI%2FCD+%7C+DevSecOps+%7C+Observability" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedabdalsabour">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mohamedhasan7420@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Muhammed-Hassan-1">
     <img src="https://img.shields.io/badge/GitHub-Follow-111?style=for-the-badge&logo=github&logoColor=white"/>
@@ -28,74 +28,99 @@
 
 ## 🚀 Engineering Profile
 
-DevOps and Cloud Engineer focused on designing secure, scalable, and automated infrastructure.
+DevOps and Cloud Engineer focused on building secure, scalable, and automated infrastructure using **AWS**, **Kubernetes**, and **Infrastructure as Code**.
 
-- Infrastructure as Code (Terraform, Ansible)
-- Containers & orchestration (Docker, Kubernetes, Helm)
-- CI/CD & GitOps (GitHub Actions, Jenkins, Argo CD)
-- DevSecOps (SonarQube, Trivy)
-- Observability (Prometheus, Grafana, ELK, Datadog)
-- Linux (RHEL) + Bash/Python automation
-
-Open to DevOps, Cloud Engineering, and Site Reliability roles.
+I work across:
+- Cloud infrastructure design and automation (Terraform, Ansible)
+- CI/CD, GitOps, and DevSecOps pipelines
+- Monitoring, logging, and reliability-focused operations
 
 ---
 
-## ☁️ Tech Arsenal (Visual)
+## 🧠 Core Skills (Organized)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux,bash,python,githubactions,jenkins&perline=5" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenShift-E00?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
+### ☁️ Cloud & Platform
+- **AWS:** EC2, S3, IAM, VPC, ALB, **EKS**
+- **Linux:** RHEL
+
+### 🏗 Infrastructure as Code
+- **Terraform**
+- **Ansible**
+
+### 🧱 Containers & Orchestration
+- **Docker**, Docker Compose
+- **Kubernetes**
+- **Helm**
+- **OpenShift**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔁 CI/CD & GitOps
+- **GitHub Actions**
+- **Jenkins**
+- **Argo CD**
+- Git, GitHub
+
+### 🔐 DevSecOps
+- **SonarQube** (quality gates)
+- **Trivy** (image scanning)
+- Secrets management (Vault fundamentals)
+
+### 📊 Observability
+- **Prometheus**, **Grafana**
+- **ELK Stack**
+- Datadog
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Featured Engineering Work
+## 🔥 Flagship Projects (High Impact)
 
-### 🏗 Production-Ready AWS EKS Infrastructure
-- Multi-AZ VPC architecture with Terraform
-- Secure CI/CD with GitHub Actions + quality/security gates (SonarQube, Trivy)
-- GitOps deployments with Argo CD (drift detection + controlled releases)
+### 🏗 Production-Ready AWS EKS Infrastructure (Terraform + GitOps)
+- Multi-AZ VPC architecture & environment isolation
+- Secure CI/CD with GitHub Actions + SonarQube + Trivy
+- GitOps deployments with Argo CD (drift detection & controlled releases)
 - API security & secrets management (API Gateway, Cognito, Vault)
 - Observability with Datadog
 
 ### 📊 Monitoring Stack Automation (Ansible)
 - Automated Prometheus + Grafana deployment on RHEL
-- Role-based, idempotent playbooks + system hardening
+- Role-based, idempotent automation + system hardening
 
-### 🧩 Kubernetes Multi-Tier Application
+### 🧩 Kubernetes Multi-Tier Architecture
 - Frontend + backend + persistent database
-- Secrets, Services, PVCs, and secure networking
+- Services, Secrets, PVCs, and secure networking patterns
 
 ---
 
-## 📊 Analytics (Reliable Alternatives)
+## 🧩 Featured Work (Repo Cards)
 
-### ✅ Option A (Most reliable): GitHub Profile Summary Cards
-> Usually works even when other stats providers fail.
+> These cards become powerful once you push your projects and pin them.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammed-Hassan-1&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammed-Hassan-1&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammed-Hassan-1&theme=tokyonight" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammed-Hassan-1&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammed-Hassan-1&theme=tokyonight&utcOffset=2" height="160"/>
+  <a href="https://github.com/Muhammed-Hassan-1/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Hassan-1&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Muhammed-Hassan-1/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Hassan-1&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
-### 🏆 Bonus Visual: Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammed-Hassan-1&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <a href="https://github.com/Muhammed-Hassan-1/REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Hassan-1&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Muhammed-Hassan-1/REPO_NAME_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Hassan-1&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
