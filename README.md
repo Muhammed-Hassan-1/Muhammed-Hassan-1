@@ -3,7 +3,25 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Engineer;Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+%7C+DevSecOps+%7C+GitOps;Building+Scalable+Cloud+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Engineer;SRE+Enthusiast;Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+%7C+DevSecOps+%7C+GitOps;Building+Scalable+Cloud+Infrastructure" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedabdalsabour">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamedhasan7420@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Muhammed-Hassan-1">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/Muhammed-Hassan-1?label=Followers&style=flat"/>
+  <img src="https://img.shields.io/github/stars/Muhammed-Hassan-1?label=Stars&style=flat"/>
 </p>
 
 ---
@@ -12,93 +30,77 @@
 
 DevOps and Cloud Engineer focused on designing secure, scalable, and automated infrastructure.
 
-Strong hands-on experience with:
-- Production-style AWS environments
-- Infrastructure as Code (Terraform & Ansible)
-- Kubernetes orchestration
-- Secure CI/CD pipelines
-- Monitoring & Observability systems
+- Infrastructure as Code (Terraform, Ansible)
+- Containers & orchestration (Docker, Kubernetes, Helm)
+- CI/CD & GitOps (GitHub Actions, Jenkins, Argo CD)
+- DevSecOps (SonarQube, Trivy)
+- Observability (Prometheus, Grafana, ELK, Datadog)
+- Linux (RHEL) + Bash/Python automation
 
-Targeting DevOps, Cloud Engineering, and Site Reliability roles.
+Open to DevOps, Cloud Engineering, and Site Reliability roles.
 
 ---
 
-# ☁️ Tech Arsenal
+## ☁️ Tech Arsenal (Visual)
 
-### Cloud & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux,bash,python,githubactions,jenkins&perline=5" />
 </p>
 
-### Containers & Orchestration
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenShift-E00?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
-</p>
-
-### CI/CD & DevSecOps
-<p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
-</p>
-
-### Monitoring & Systems
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,python"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenShift-E00?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
 ---
 
-# 🔥 Featured Engineering Work
+## 🔥 Featured Engineering Work
 
 ### 🏗 Production-Ready AWS EKS Infrastructure
 - Multi-AZ VPC architecture with Terraform
-- GitHub Actions secure CI/CD
-- SonarQube & Trivy security scanning
-- GitOps workflows with Argo CD
-- API Gateway, Cognito & Vault integration
-- Datadog observability stack
-
----
+- Secure CI/CD with GitHub Actions + quality/security gates (SonarQube, Trivy)
+- GitOps deployments with Argo CD (drift detection + controlled releases)
+- API security & secrets management (API Gateway, Cognito, Vault)
+- Observability with Datadog
 
 ### 📊 Monitoring Stack Automation (Ansible)
-- Automated Prometheus & Grafana deployment
-- Role-based idempotent architecture
-- RHEL hardening & service configuration
-
----
+- Automated Prometheus + Grafana deployment on RHEL
+- Role-based, idempotent playbooks + system hardening
 
 ### 🧩 Kubernetes Multi-Tier Application
-- Frontend, backend & database architecture
-- Secrets management & PVC storage
-- Secure internal & external networking
+- Frontend + backend + persistent database
+- Secrets, Services, PVCs, and secure networking
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 Analytics (Reliable Alternatives)
+
+### ✅ Option A (Most reliable): GitHub Profile Summary Cards
+> Usually works even when other stats providers fail.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Hassan-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Hassan-1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammed-Hassan-1&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammed-Hassan-1&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammed-Hassan-1&theme=tokyonight" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammed-Hassan-1&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammed-Hassan-1&theme=tokyonight&utcOffset=2" height="160"/>
 </p>
 
+### 🏆 Bonus Visual: Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammed-Hassan-1&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed-Hassan-1&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammed-Hassan-1&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-# 🎓 Education & Technical Training
+## 🎓 Education & Training
 
 - B.Sc. Communications & Electronics Engineering (2025)
 - Red Hat System Administration (RHCSA Track)
@@ -107,23 +109,6 @@ Targeting DevOps, Cloud Engineering, and Site Reliability roles.
 - AWS Cloud Practitioner & Solutions Architect Training
 
 ---
-
-# 📫 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mohamedabdalsabour">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohamedhasan7420@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
