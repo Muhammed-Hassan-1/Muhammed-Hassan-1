@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Mohamed%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Muhammed%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
@@ -84,16 +84,16 @@ Targeting DevOps, Cloud Engineering, and Site Reliability roles.
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hassan-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hassan-1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Hassan-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Hassan-1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Hassan-1&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Muhammed-Hassan-1&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Hassan-1&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed-Hassan-1&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -122,7 +122,7 @@ Targeting DevOps, Cloud Engineering, and Site Reliability roles.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Hassan-1&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Muhammed-Hassan-1&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
