@@ -1,86 +1,92 @@
-# Mohamed Hassan 👋  
-### DevOps | Cloud Engineer | SRE Enthusiast  
+<h1 align="center">Mohamed Hassan</h1>
+<h3 align="center">DevOps Engineer | Cloud Engineer | SRE Enthusiast</h3>
 
-DevOps and Cloud Engineer with hands-on experience designing and operating production-style cloud infrastructure on AWS.  
-Passionate about Infrastructure as Code, Kubernetes, CI/CD automation, DevSecOps, and building scalable, secure systems.
-
-📍 Based in Egypt | 🌍 Open to Remote & International Opportunities  
-
----
-
-## 🚀 About Me
-
-- 🔹 DevOps Engineer Intern at National Telecommunication Institute (NTI)
-- 🔹 Strong experience with AWS, Kubernetes, Terraform, and GitOps
-- 🔹 Focused on automation, reliability, security, and observability
-- 🔹 Building production-ready cloud environments, not just tutorials
-- 🔹 Continuously improving toward senior-level cloud engineering
+<p align="center">
+Building scalable, secure, and automated cloud infrastructure.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Professional Summary
 
-### ☁️ Cloud
-AWS (EC2, S3, IAM, VPC, ALB, EKS)
+DevOps and Cloud Engineer with hands-on experience designing production-style AWS infrastructure, implementing Infrastructure as Code, and building secure CI/CD pipelines.  
 
-### 🏗 Infrastructure as Code
-Terraform | Ansible
+Focused on automation, reliability engineering, DevSecOps practices, and cloud-native architectures using Kubernetes.
 
-### 🐳 Containers & Orchestration
-Docker | Kubernetes | Helm | OpenShift
-
-### 🔁 CI/CD & DevSecOps
-GitHub Actions | Jenkins | Argo CD | SonarQube | Trivy
-
-### 📊 Monitoring & Logging
-Prometheus | Grafana | ELK Stack | Datadog
-
-### 💻 OS & Scripting
-Linux (RHEL) | Bash | Python
+Open to DevOps, Cloud, and Site Reliability Engineering opportunities.
 
 ---
 
-## 🔥 Featured Projects
+## ☁️ Core Expertise
 
-### 🏗 Infrastructure Automation & Secure CI/CD on AWS EKS
-- Provisioned production-ready AWS EKS infrastructure using Terraform (multi-AZ VPC design, IAM, environment isolation).
-- Implemented GitHub Actions CI/CD pipeline with integrated security scanning (SonarQube & Trivy).
-- Adopted GitOps using Argo CD for automated deployments and drift detection.
-- Secured APIs using API Gateway, Cognito, and HashiCorp Vault.
-- Integrated Datadog for monitoring and observability.
+**Cloud Platforms**  
+AWS (EKS, EC2, S3, IAM, VPC, ALB)
 
----
+**Infrastructure as Code**  
+Terraform • Ansible
 
-### 📊 Ansible-Based Monitoring Stack
-- Automated deployment of Prometheus & Grafana on RHEL using Ansible.
-- Designed idempotent playbooks with role-based architecture.
-- Implemented systemd management and firewall hardening.
+**Containers & Orchestration**  
+Docker • Kubernetes • Helm • OpenShift
 
----
+**CI/CD & DevSecOps**  
+GitHub Actions • Jenkins • Argo CD  
+SonarQube • Trivy • GitOps
 
-### 🧩 Kubernetes Multi-Tier Application Architecture
-- Designed multi-tier application (frontend, backend, database).
-- Configured Services, Secrets, PVCs, and networking.
-- Implemented secure internal and external communication.
+**Monitoring & Observability**  
+Prometheus • Grafana • ELK Stack • Datadog
+
+**Systems & Scripting**  
+Linux (RHEL) • Bash • Python
 
 ---
 
-## 🎓 Training & Education
+## 🔥 Featured Engineering Projects
 
+### 🏗 Production-Ready AWS EKS Infrastructure
+- Designed multi-AZ VPC architecture with environment isolation (Prod / Non-Prod)
+- Provisioned infrastructure using Terraform (IaC best practices)
+- Deployed containerized microservices using Kubernetes & Helm
+- Implemented GitHub Actions CI/CD with integrated security scanning (SonarQube, Trivy)
+- Applied GitOps workflows using Argo CD for drift detection & release control
+- Integrated API Gateway, Cognito & HashiCorp Vault for secure access management
+- Implemented full observability using Datadog
+
+---
+
+### 📊 Automated Monitoring Stack with Ansible
+- Automated Prometheus & Grafana deployment on RHEL
+- Implemented role-based, idempotent Ansible architecture
+- Configured firewalld hardening & systemd services
+- Enabled centralized metrics collection & visualization
+
+---
+
+### 🧩 Kubernetes Multi-Tier Architecture
+- Designed frontend, backend & database architecture
+- Managed Secrets, Services, and Persistent Volume Claims
+- Implemented internal/external networking best practices
+- Applied secure configuration management
+
+---
+
+## 🎓 Education & Training
+
+- B.Sc. Communications & Electronics Engineering (2025)
 - Red Hat System Administration (RHCSA Track)
 - Red Hat Ansible Automation
 - Red Hat OpenShift Administration
 - AWS Cloud Practitioner & Solutions Architect Training
-- B.Sc. Communications & Electronics Engineering – Helwan University (2025)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mohamedabdalsabour
+- 💼 LinkedIn: www.linkedin.com/in/mohamedabdalsabour
 - 📧 Email: mohamedhasan7420@gmail.com
-- 🐙 GitHub: https://github.com/Mohamed-Hassan-1
+- 🐙 GitHub: github.com/Mohamed-Hassan-1
 
 ---
 
-⚡ Currently expanding my cloud portfolio with production-grade DevOps projects.
+<p align="center">
+⚡ Continuously building production-grade DevOps systems and expanding cloud architecture expertise.
+</p>
