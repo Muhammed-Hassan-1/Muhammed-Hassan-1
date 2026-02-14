@@ -1,92 +1,125 @@
-<h1 align="center">Mohamed Hassan</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Hassan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">DevOps Engineer | Cloud Engineer | SRE Enthusiast</h3>
 
 <p align="center">
-Building scalable, secure, and automated cloud infrastructure.
+Designing scalable, secure, and automated cloud infrastructure.
 </p>
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-DevOps and Cloud Engineer with hands-on experience designing production-style AWS infrastructure, implementing Infrastructure as Code, and building secure CI/CD pipelines.  
-
-Focused on automation, reliability engineering, DevSecOps practices, and cloud-native architectures using Kubernetes.
-
-Open to DevOps, Cloud, and Site Reliability Engineering opportunities.
-
----
-
-## ☁️ Core Expertise
-
-**Cloud Platforms**  
-AWS (EKS, EC2, S3, IAM, VPC, ALB)
-
-**Infrastructure as Code**  
-Terraform • Ansible
-
-**Containers & Orchestration**  
-Docker • Kubernetes • Helm • OpenShift
-
-**CI/CD & DevSecOps**  
-GitHub Actions • Jenkins • Argo CD  
-SonarQube • Trivy • GitOps
-
-**Monitoring & Observability**  
-Prometheus • Grafana • ELK Stack • Datadog
-
-**Systems & Scripting**  
-Linux (RHEL) • Bash • Python
+- 🔹 Hands-on experience with production-style AWS infrastructure  
+- 🔹 Strong foundation in Kubernetes & Cloud-Native architecture  
+- 🔹 Focused on Infrastructure as Code & DevSecOps  
+- 🔹 Building real-world cloud systems, not tutorial projects  
+- 🔹 Targeting DevOps, Cloud & Site Reliability roles  
 
 ---
 
-## 🔥 Featured Engineering Projects
+## ☁️ Tech Stack
+
+### Cloud & Infrastructure
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</p>
+
+### Containers & Orchestration
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenShift-E00?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+</p>
+
+### CI/CD & DevSecOps
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+</p>
+
+### Monitoring & Systems
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
 
 ### 🏗 Production-Ready AWS EKS Infrastructure
-- Designed multi-AZ VPC architecture with environment isolation (Prod / Non-Prod)
-- Provisioned infrastructure using Terraform (IaC best practices)
-- Deployed containerized microservices using Kubernetes & Helm
-- Implemented GitHub Actions CI/CD with integrated security scanning (SonarQube, Trivy)
-- Applied GitOps workflows using Argo CD for drift detection & release control
-- Integrated API Gateway, Cognito & HashiCorp Vault for secure access management
-- Implemented full observability using Datadog
+- Multi-AZ VPC architecture with Terraform
+- GitHub Actions secure CI/CD pipeline
+- SonarQube & Trivy security scanning
+- GitOps with Argo CD
+- API Gateway, Cognito & Vault integration
+- Full observability using Datadog
 
 ---
 
-### 📊 Automated Monitoring Stack with Ansible
-- Automated Prometheus & Grafana deployment on RHEL
-- Implemented role-based, idempotent Ansible architecture
-- Configured firewalld hardening & systemd services
-- Enabled centralized metrics collection & visualization
+### 📊 Automated Monitoring Stack (Ansible)
+- Prometheus & Grafana automated deployment
+- Role-based, idempotent architecture
+- RHEL hardening & service management
 
 ---
 
 ### 🧩 Kubernetes Multi-Tier Architecture
-- Designed frontend, backend & database architecture
-- Managed Secrets, Services, and Persistent Volume Claims
-- Implemented internal/external networking best practices
-- Applied secure configuration management
+- Frontend, backend & persistent database layers
+- Secure networking & secret management
+- PVC-based storage configuration
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hassan-1&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hassan-1&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
 ## 🎓 Education & Training
 
-- B.Sc. Communications & Electronics Engineering (2025)
-- Red Hat System Administration (RHCSA Track)
-- Red Hat Ansible Automation
-- Red Hat OpenShift Administration
-- AWS Cloud Practitioner & Solutions Architect Training
+- B.Sc. Communications & Electronics Engineering (2025)  
+- Red Hat System Administration (RHCSA Track)  
+- Red Hat Ansible Automation  
+- Red Hat OpenShift Administration  
+- AWS Cloud Practitioner & Solutions Architect Training  
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/mohamedabdalsabour
-- 📧 Email: mohamedhasan7420@gmail.com
-- 🐙 GitHub: github.com/Mohamed-Hassan-1
+<p>
+<a href="https://www.linkedin.com/in/mohamedabdalsabour">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohamedhasan7420@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <p align="center">
-⚡ Continuously building production-grade DevOps systems and expanding cloud architecture expertise.
+⚡ Building production-grade DevOps systems and advancing toward senior cloud engineering.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
