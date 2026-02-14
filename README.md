@@ -1,46 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Hassan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Mohamed%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-
-<h3 align="center">DevOps Engineer | Cloud Engineer | SRE Enthusiast</h3>
 
 <p align="center">
-Designing scalable, secure, and automated cloud infrastructure.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Engineer;Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+%7C+DevSecOps+%7C+GitOps;Building+Scalable+Cloud+Infrastructure" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Engineering Profile
 
-- 🔹 Hands-on experience with production-style AWS infrastructure  
-- 🔹 Strong foundation in Kubernetes & Cloud-Native architecture  
-- 🔹 Focused on Infrastructure as Code & DevSecOps  
-- 🔹 Building real-world cloud systems, not tutorial projects  
-- 🔹 Targeting DevOps, Cloud & Site Reliability roles  
+DevOps and Cloud Engineer focused on designing secure, scalable, and automated infrastructure.
+
+Strong hands-on experience with:
+- Production-style AWS environments
+- Infrastructure as Code (Terraform & Ansible)
+- Kubernetes orchestration
+- Secure CI/CD pipelines
+- Monitoring & Observability systems
+
+Targeting DevOps, Cloud Engineering, and Site Reliability roles.
 
 ---
 
-## ☁️ Tech Stack
+# ☁️ Tech Arsenal
 
 ### Cloud & Infrastructure
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible"/>
 </p>
 
 ### Containers & Orchestration
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenShift-E00?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
 </p>
 
 ### CI/CD & DevSecOps
 <p>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins"/>
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
@@ -48,78 +47,84 @@ Designing scalable, secure, and automated cloud infrastructure.
 
 ### Monitoring & Systems
 <p>
+<img src="https://skillicons.dev/icons?i=linux,bash,python"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+# 🔥 Featured Engineering Work
 
 ### 🏗 Production-Ready AWS EKS Infrastructure
 - Multi-AZ VPC architecture with Terraform
-- GitHub Actions secure CI/CD pipeline
+- GitHub Actions secure CI/CD
 - SonarQube & Trivy security scanning
-- GitOps with Argo CD
+- GitOps workflows with Argo CD
 - API Gateway, Cognito & Vault integration
-- Full observability using Datadog
+- Datadog observability stack
 
 ---
 
-### 📊 Automated Monitoring Stack (Ansible)
-- Prometheus & Grafana automated deployment
-- Role-based, idempotent architecture
-- RHEL hardening & service management
+### 📊 Monitoring Stack Automation (Ansible)
+- Automated Prometheus & Grafana deployment
+- Role-based idempotent architecture
+- RHEL hardening & service configuration
 
 ---
 
-### 🧩 Kubernetes Multi-Tier Architecture
-- Frontend, backend & persistent database layers
-- Secure networking & secret management
-- PVC-based storage configuration
+### 🧩 Kubernetes Multi-Tier Application
+- Frontend, backend & database architecture
+- Secrets management & PVC storage
+- Secure internal & external networking
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hassan-1&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hassan-1&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hassan-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hassan-1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamed-Hassan-1&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Hassan-1&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🎓 Education & Training
+# 🎓 Education & Technical Training
 
-- B.Sc. Communications & Electronics Engineering (2025)  
-- Red Hat System Administration (RHCSA Track)  
-- Red Hat Ansible Automation  
-- Red Hat OpenShift Administration  
-- AWS Cloud Practitioner & Solutions Architect Training  
+- B.Sc. Communications & Electronics Engineering (2025)
+- Red Hat System Administration (RHCSA Track)
+- Red Hat Ansible Automation
+- Red Hat OpenShift Administration
+- AWS Cloud Practitioner & Solutions Architect Training
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/mohamedabdalsabour">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mohamedhasan7420@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-⚡ Building production-grade DevOps systems and advancing toward senior cloud engineering.
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Hassan-1&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
